@@ -1,0 +1,2 @@
+C:\Users\Učenik07\source\repos\prvizadatak\prvizadatak\obj\Debug\prvizadatak.csprojAssemblyReference.cache
+C:\Users\Učenik07\source\repos\prvizadatak\prvizadatak\obj\Debug\prvizadatak.csproj.CoreCompileInputs.cache
