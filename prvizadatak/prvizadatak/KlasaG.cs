@@ -11,10 +11,12 @@ namespace prvizadatak
         public void Plus10(int broj)
         {
             broj = broj + 10;
+            Console.WriteLine(broj);
         }
         public void f50(int broj)
         {
             broj = 50;
+            Console.WriteLine(broj);
         }
 
     }
