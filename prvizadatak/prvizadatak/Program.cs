@@ -12,8 +12,10 @@ namespace prvizadatak
         {
             KlasaG objekt = new KlasaG();
             int broj = 40;
-            Console.WriteLine("Prva metoda iznosi: " + objekt.Plus10(broj));
-            Console.WriteLine("Druga metoda iznosi: " + objekt.f50(broj));
+            Console.WriteLine("Prva metoda iznosi: ");
+            objekt.Plus10(broj);
+            Console.WriteLine("Druga metoda iznosi: ");
+            objekt.f50(broj);
 
             Console.ReadKey();
         }

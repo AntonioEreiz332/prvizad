@@ -1,2 +1,7 @@
 C:\Users\Učenik07\source\repos\prvizadatak\prvizadatak\obj\Debug\prvizadatak.csprojAssemblyReference.cache
 C:\Users\Učenik07\source\repos\prvizadatak\prvizadatak\obj\Debug\prvizadatak.csproj.CoreCompileInputs.cache
+C:\Users\Učenik07\source\repos\prvizadatak\prvizadatak\bin\Debug\prvizadatak.exe.config
+C:\Users\Učenik07\source\repos\prvizadatak\prvizadatak\bin\Debug\prvizadatak.exe
+C:\Users\Učenik07\source\repos\prvizadatak\prvizadatak\bin\Debug\prvizadatak.pdb
+C:\Users\Učenik07\source\repos\prvizadatak\prvizadatak\obj\Debug\prvizadatak.exe
+C:\Users\Učenik07\source\repos\prvizadatak\prvizadatak\obj\Debug\prvizadatak.pdb
